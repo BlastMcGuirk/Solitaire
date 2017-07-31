@@ -19,6 +19,7 @@ Currently, nothing needs to be done to Solitaire.java, GUI/Screen.java, Cards/Im
 #### Files to work on
 Cards/Card.java
 Decks/...
+
   DeckFacade.java
   DeckPile.java
   DiscardPile.java
