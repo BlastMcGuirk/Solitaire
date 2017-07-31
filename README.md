@@ -35,6 +35,9 @@ DeckFacade:
   
 THE REST:
   Each pile has a different function, and it's up to you to implement these functions. The DeckPile is what you draw from, DiscardPile is that you put the cards from the DeckPile in to, StackPile is the main decks thats on the bottom row, like where you try to make big stacks of cards, SuitPile are the ace stacks, where you build up on the same suit, and MulticardPile is sort of a "temporary" pile used to transfer cards between piles (useful for moving a lot of cards, but also capable of moving just one).
+
+Should look somethin like this in the end
+![Solitaire](https://user-images.githubusercontent.com/7418102/28796261-dd2174f0-760a-11e7-9386-baf84e168309.png)
   
 ## Sah
 
